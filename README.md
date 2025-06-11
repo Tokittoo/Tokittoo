@@ -10,10 +10,10 @@ I'm just a dude who turns coke into code. I build dope stuff that doesn't end up
 ---
 [![](https://visitcount.itsvg.in/api?id=Tokittoo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_tokitoooo_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:R.Krishna.Prasath@protonmail.com) 
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tokittoo&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Tokittoo&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tokittoo&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_tokitoooo_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:R.Krishna.Prasath@protonmail.com) 
